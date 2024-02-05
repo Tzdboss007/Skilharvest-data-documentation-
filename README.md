@@ -1,4 +1,4 @@
-# SkilHarvest-data-documentation-
+# **SkilHarvest-data-documentation**
 - My First documentation of SkilHarvest Data Analysis project work 
 
 ---
@@ -6,7 +6,7 @@
 This Data analysis project seeks to generate insight into Sales inventory records over a number of years. By analysing each parameter in these data it gives a clearer view of how well each item is doing and how to maximize output and increase sales. Further more it gives insight to customers behavior and prefrence when buying stationaries and how to better strategise sales.  
 
 ---
-- sales of binder item and pencil in 2015 
+- Sales of binder item and pencil in 2015 
 
 ```
 =QUERY(A:H, "SELECT C,F WHERE (C = 'Binder' OR C ='Pencil') AND F = 2015",1)
@@ -29,7 +29,10 @@ This Data analysis project seeks to generate insight into Sales inventory record
 ```
 ---
 
-- sales of binder item and pencil in 2015 
+## Data Souce 
+The source of data used in this Analysis if from skilhavest practical class  [ClICK HERE TO DOWNLOAD](http://SkilHavest.com/SkilHavest_Stationary_Supplies.csv) 
+
+- Sales of binder item and pencil in 2015 
            
 |Item|Year|                                     
 |----|----|                     
@@ -87,7 +90,6 @@ This Data analysis project seeks to generate insight into Sales inventory record
 |Sep	|2014	|255.84|
 |Sep	|2014 |	151.24|
 
-
 - Show sales of item that start with pen, include their region, sales rep, and year
 
 |Region	|Sales_rep	|Item	Year|	
@@ -118,7 +120,6 @@ This Data analysis project seeks to generate insight into Sales inventory record
 |West	|Thomas	Pencil	|2015|	
 |Central	|Morgan	Pencil	|2015|	
 
-
 - Show sales of item that ends with Sk, include their region, sales rep, and year
      
 |Region	|Sales_rep	|Item	Year|
@@ -127,6 +128,8 @@ This Data analysis project seeks to generate insight into Sales inventory record
 |Central |Smith	Desk	|2014|	
 |Central	|Matthew	Desk	|2015|
 
-
+## Tools Used 
+Just one tool was used for both the Analysis and Visulaisation of the above data
+- Google sheet [click Here](https://docs.google.com/spreadsheets/d/1oyuA0-qZmWBy52nvBw_x0x_zIEAvpcSZD5FAHVsROik/edit#gid=0)
 
 
