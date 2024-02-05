@@ -4,7 +4,9 @@
 ---
 ## Project Overview
 This Data analysis project seeks to generate insight into Sales inventory records over a number of years. By analysing each parameter in these data it gives a clearer view of how well each item is doing and how to maximize output and increase sales. Further more it gives insight to customers behavior and prefrence when buying stationaries and how to better strategise sales.  
-
+- SkilHarvest-data-documentation [SkilHarvest-data-documentation](#skilharvest_data_documentation)
+- Project Overview [Project Overview](#project_overview)
+- Data Souce []
 ---
 - Sales of binder item and pencil in 2015 
 
