@@ -32,7 +32,7 @@ This Data analysis project seeks to generate insight into Sales inventory record
 ---
 
 ## Data Souce 
-The source of data used in this Analysis if from skilhavest practical class  [ClICK HERE TO DOWNLOAD](http://SkilHavest.com/SkilHavest_Stationary_Supplies.csv) 
+The source of data used in this Analysis if from skilhavest practical class  [ClICK HERE TO DOWNLOAD](http://tinyurl.com/2hdwhpvm) 
 
 - Sales of binder item and pencil in 2015 
            
