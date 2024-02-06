@@ -34,6 +34,8 @@ This Data analysis project seeks to generate insight into Sales inventory record
 ## Data Souce 
 The source of data used in this Analysis if from skilhavest practical class  [ClICK HERE TO DOWNLOAD](http://tinyurl.com/2hdwhpvm) 
 
+## Data Analysis
+
 - Sales of binder item and pencil in 2015 
            
 |Item|Year|                                     
@@ -98,8 +100,8 @@ The source of data used in this Analysis if from skilhavest practical class  [Cl
 |-------|-----------|---------|
 |East	|Richard	|Pen Set	|2014|	
 |Central	|Morgan	Pen Set	|2014|	
-|Central	|Matthew	Pen Set	|2014	
-|East	|Richard Pencil	|2014|	
+|Central	|Matthew	Pen Set	|2014|	
+|East	|Richard Pencil	|2014	
 |Central	|Bill	Pencil	|2014|	
 |East	|Richard	Pen Set	|2014|	
 |West	|James	Pen	|2014|	
@@ -135,4 +137,6 @@ The source of data used in this Analysis if from skilhavest practical class  [Cl
 Just one tool was used for both the Analysis and Visulaisation of the above data
 - Google sheet [click Here](http://tinyurl.com/suswph5a)
 
-
+---
+## Conclusion/Findings
+It could be deduced from this analysis that 
