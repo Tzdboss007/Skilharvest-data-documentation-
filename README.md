@@ -36,6 +36,8 @@ The source of data used in this Analysis if from skilhavest practical class  [Cl
 
 ## Data Analysis
 
+![](Stationary _Supply_Dashboard.jpg)
+
 - Sales of binder item and pencil in 2015 
            
 |Item|Year|                                     
