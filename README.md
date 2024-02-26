@@ -33,10 +33,9 @@ This Data analysis project seeks to generate insight into Sales inventory record
 
 ## Data Souce 
 The source of data used in this Analysis if from skilhavest practical class  [ClICK HERE TO DOWNLOAD](http://tinyurl.com/2hdwhpvm) 
+![]()
 
 ## Data Analysis
-
-![](Stationary _Supply_Dashboard.jpg)
 
 - Sales of binder item and pencil in 2015 
            
@@ -136,9 +135,14 @@ The source of data used in this Analysis if from skilhavest practical class  [Cl
 
 ---
 ## Tools Used 
-Just one tool was used for both the Analysis and Visulaisation of the above data
+ tool used for both the Analysis and Visulaisation of the above data Includes 
+- PowerBI
 - Google sheet [click Here](http://tinyurl.com/suswph5a)
 
 ---
 ## Conclusion/Findings
-It could be deduced from this analysis that 
+
+![](Stationary_Supply_Dashboard.jpg)
+
+From the dash Board it can be deduced that that Binders have the highest sales, Also two sales representatives have the highst number of sales with central region being the region with the highest sales volume and the west have the least number of sales.
+ Also December holds the month with the highest sales volume and a sharp drop was withnessed in February with march being the Month with the lowest sales.
