@@ -1,6 +1,6 @@
 # **SkilHarvest-data-documentation**
 - My First documentation of SkilHarvest Data Analysis project work 
-
+![](analytics.jpg)
 ---
 ## Project Overview
 This Data analysis project seeks to generate insight into Sales inventory records over a number of years. By analysing each parameter in these data it gives a clearer view of how well each item is doing in terms of sales and how to maximize sales. Further more it gives insight to customers behavior and prefrence when buying stationaries and how to better strategise sales to meet the teaming demands of customers.  
@@ -10,7 +10,9 @@ This Data analysis project seeks to generate insight into Sales inventory record
 - SkilHarvest-data-documentation [SkilHarvest data documentation](#skilharvest-data-documentation)
 - Project Overview [Project Overview](#project-overview)
 - Data Source [Data Source](#data-source)
+- Tools Used  [Tools Used](tools-used)
 - Data Source [Data Analysis](#data-analysis)
+  
 
 
 ## Data Source 
