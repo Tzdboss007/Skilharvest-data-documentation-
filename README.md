@@ -5,6 +5,7 @@
 ## Project Overview
 This Data analysis project seeks to generate insight into Sales inventory records over a number of years. By analysing each parameter in these data it gives a clearer view of how well each item is doing in terms of sales and how to maximize sales. Further more it gives insight to customers behavior and prefrence when buying stationaries and how to better strategise sales to meet the teaming demands of customers.  
 
+---
 
 ## **Project Outline**
 - SkilHarvest-data-documentation [SkilHarvest data documentation](#skilharvest-data-documentation)
@@ -14,6 +15,7 @@ This Data analysis project seeks to generate insight into Sales inventory record
 - Data Source [Data Analysis](#data-analysis)
 - Conclusion and Findings [Conclusion and Findings](#conclusion-and-findings)
 
+---
 
 ## Data Source 
 The source of data used in this Analysis is from skilhavest practical class  [ClICK HERE TO DOWNLOAD](http://tinyurl.com/2hdwhpvm) 
