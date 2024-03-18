@@ -31,6 +31,7 @@ The source of data used in this Analysis is from skilhavest practical class  [Cl
 
 ## Data Analysis
 
+The primary source of this data is from the skilharvest practical class,the data has already been cleaned from the source, however some basic operation were carried out on the cleaned data this operations includes the addition of conditional colums to the Months columns to help with the sorting of the months in chronological order. 
 Below are some of the query codes used to extract some of the vital samples from the total population of data made available.
 
 - Sales of binder item and pencil in 2015 
