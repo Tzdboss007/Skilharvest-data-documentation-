@@ -31,7 +31,9 @@ The source of data used in this Analysis is from skilhavest practical class  [Cl
 
 ## Data Analysis
 
-The primary source of this data is from the skilharvest practical class,the data has already been cleaned from the source, however some basic operation were carried out on the cleaned data this operations includes the addition of conditional colums to the Months columns to help with the sorting of the months in chronological order. 
+The primary source of this data is from the skilharvest practical class,the data has already been cleaned from the source, however some basic operation were carried out on the cleaned data this operations includes 
+- Addition of conditional colums to the Months columns to help with the sorting of the months in chronological order. 
+
 Below are some of the query codes used to extract some of the vital samples from the total population of data made available.
 
 - Sales of binder item and pencil in 2015 
@@ -54,11 +56,11 @@ Below are some of the query codes used to extract some of the vital samples from
 ```
 =QUERY(A:H,"SELECT A,B,C,F WHERE C LIKE '%sk'",1)
 ```
+![](Stationary_Supply_Dashboard.jpg)
 ---
 
 ## Conclusion and Findings
 
-![](Stationary_Supply_Dashboard.jpg)
-
 From the dash Board it can be deduced that Binders have the highest sales with most of the sales ocurring in December,July and February respective, Also two sales representatives have the highst number of sales with central region being the region with the highest sales volume and the west have the least number of sales.
- Also December holds the month with the highest sales volume and a sharp drop was withnessed in February with march being the Month with the lowest sales.
+Also December holds the month with the highest sales volume and a sharp drop was withnessed in February with march being the Month with the lowest sales.
+In other to maximize sales during those months that have most sales like December, july and February stock pile of items that are mostly sold like Binders Item should be stock piled in those rigion expiriencing high sales rate also for region and Items with lower sales a kind of Awareness in other to call potention customers attention to the items that are available. 
